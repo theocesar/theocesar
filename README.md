@@ -13,3 +13,10 @@
   <img align="center" alt="Théo-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />      
 </div>
  
+ ## Contact me:
+ 
+ <div> 
+  <a href="https://www.linkedin.com/in/th%C3%A9o-c%C3%A9sar-21a745263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:theosilva3476@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <div> 
+       
