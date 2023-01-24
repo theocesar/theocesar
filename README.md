@@ -1,6 +1,6 @@
 ## _Théo César_
 
-- 🔭 A 3rd year computer science student at PUCPR.
+- 🔭 3rd year computer science student at PUCPR.
 - 🦾 I’m currently upgrading my skills in Python and Java.
 - 🔥 Fascinated by solving problems. 
 
