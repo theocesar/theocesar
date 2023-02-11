@@ -2,7 +2,7 @@
 
 - 🔭 3rd year computer science student at PUCPR.
 - 🦾 Currently upgrading my skills in Python.
-- 🔥 Fascinated by solving problems and astronomy. 
+- 🔥 Fascinated by solving problems and researching about astronomy. 
 
 ### _Languages that i use_:
 <div style="display: inline_block"><br>
