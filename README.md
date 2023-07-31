@@ -1,7 +1,7 @@
 ## _Théo César_
 
 - 🔭 3rd year computer science student at PUCPR.
-- 🦾 Currently upgrading my skills in Python.
+- 🦾 Currently learning C#.
 - 🔥 Fascinated by solving problems and researching about astronomy. 
 
 ### _Github analytics_:
