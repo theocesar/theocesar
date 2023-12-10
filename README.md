@@ -1,6 +1,6 @@
 ## _Théo César_
 
-- 🔭 3rd year computer science student at PUCPR.
+- 🔭 4th year computer science student at PUCPR.
 - 🦾 Currently learning C#.
 - 🔥 Fascinated by solving problems. 
 
