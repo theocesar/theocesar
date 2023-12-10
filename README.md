@@ -2,7 +2,7 @@
 
 - 🔭 3rd year computer science student at PUCPR.
 - 🦾 Currently learning C#.
-- 🔥 Fascinated by solving problems and researching about astronomy. 
+- 🔥 Fascinated by solving problems. 
 
 ### _Github analytics_:
 <div>
