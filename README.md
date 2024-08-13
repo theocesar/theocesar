@@ -1,7 +1,6 @@
 ## _Théo César_
 
 - 🔭 4th year computer science student at PUCPR.
-- 🦾 Currently learning C#.
 - 🔥 Fascinated by solving problems. 
 
 ### _Github analytics_:
