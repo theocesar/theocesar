@@ -4,7 +4,7 @@
 - 🔥 Fascinated by solving problems.
 - 📚 I'm currently learning more about back-end development and data science concepts.
 
-## _Github analytics_:
+## _Analytics_:
 <div>
   <a href="https://github.com/theocesar">
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=theocesar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
