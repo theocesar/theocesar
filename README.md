@@ -1,8 +1,8 @@
 # _Théo César_
 
-- 🔭 Bachelor of Computer Science at PUCPR (2021-2024)
+- 🔭 Computer Scientist (PUCPR | 2021-2024)
 - 🔥 Thrilled for problem-solving and always dedicated to continuous learning.
-- 📚 I'm currently learning more about back-end development and data science concepts.
+- 📚 I'm currently understanding more about back-end development and data science concepts.
   
 ## _Tech Stack_
 
