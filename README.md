@@ -1,4 +1,4 @@
-# _Théo César_
+<h1 align="center">Théo César</h1>
 
 - 🔭 Computer Scientist (PUCPR | 2021-2024)
 - 🔥 Thrilled for problem-solving and always dedicated to continuous learning.
