@@ -2,7 +2,7 @@
 
 - 🔭 Computer Scientist (PUCPR | 2021-2024)
 - 🔥 Thrilled for problem-solving and always dedicated to continuous learning.
-- 📚 I'm currently understanding more about back-end development and data science concepts.
+- 📚 I'm currently understanding more about back-end development, data science concepts and docker.
   
 ## _Tech Stack_
 
